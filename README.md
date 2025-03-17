@@ -1,8 +1,8 @@
 # Hi, I'm Can
 
-İ'm a Backend Developer and aspire to become a **Cybersecurity Expert** in the future. I specialize in building robust, scalable applications while continuously enhancing my knowledge in the world of cybersecurity. With experience in multiple technologies and frameworks, I am constantly learning and working towards becoming a professional in the cybersecurity field.
+I'm a Backend Developer and aspire to become a **Cybersecurity Expert** in the future. I specialize in building robust, scalable applications while continuously enhancing my knowledge in the world of cybersecurity. With experience in multiple technologies and frameworks, I am constantly learning and working towards becoming a professional in the cybersecurity field.
 
-## İ'm currently working on:
+## I'm currently working on:
 - **DevSecOps**: Implementing security practices in development and operations.
 - **CI/CD Pipelines**: Automating continuous integration and continuous deployment processes.
 - **Containerization & Orchestration**: Managing Docker and Kubernetes environments.

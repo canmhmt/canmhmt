@@ -15,5 +15,5 @@ I'm a Backend Developer and aspire to become a **Cybersecurity Expert** in the f
 - **Vim**: Efficient text editing and development within the terminal.  
 
 ## 📈 Statistics
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=canmhmt&layout=compact&theme=dark&langs_count=10)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=canmhmt&show_icons=true&hide_title=true)

@@ -12,6 +12,7 @@ I'm a Backend Developer and aspire to become a **Cybersecurity Expert** in the f
 - **Elasticsearch**: Conducting search and analytics on large datasets.
 - **Linux & Terminal**: Managing systems and automating tasks using command-line tools..
 - **Python**: Backend development and automation.
+- **Vim**: Efficient text editing and development within the terminal.  
 
 ## 📈 Statistics
 
